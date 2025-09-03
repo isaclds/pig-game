@@ -1,13 +1,13 @@
 # Pig Game 🎲
 
-Um jogo de dados interativo para dois jogadores, desenvolvido com HTML, CSS e JavaScript. Durante o curso de JavaScript 
+Um jogo de dados interativo para dois jogadores, desenvolvido com HTML, CSS e JavaScript. Durante o curso de [JavaScript](https://github.com/jonasschmedtmann/complete-javascript-course) ministrado por [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
 
 ![Pig Game](https://img.shields.io/badge/Status-Concluído-brightgreen) 
 ![Tecnologia](https://img.shields.io/badge/Tecnologia-HTML%2FCSS%2FJS-yellow)
 
 ## 📋 Sobre o Jogo
 
-Pig Game é um divertido jogo de dados onde dois jogadores competem para ser o primeiro a atingir 100 pontos. Cada jogador rola os dados acumulando pontos, mas cuidado! Se tirar um "1", perde todos os pontos da rodada.
+Pig Game é um divertido jogo de dados na web onde dois jogadores competem para ser o primeiro a atingir 100 pontos. Cada jogador rola os dados acumulando pontos, mas cuidado! Se tirar um "1", perde todos os pontos da rodada.
 
 ## 🎮 Como Jogar
 
@@ -50,4 +50,4 @@ Pig Game é um divertido jogo de dados onde dois jogadores competem para ser o p
 
 ## 🔧 Como Acessar
 
-1. Acesse esse link: https://pig-game-three-red.vercel.app/
+- Acesse esse link: https://pig-game-three-red.vercel.app/
