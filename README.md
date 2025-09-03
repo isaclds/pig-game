@@ -1,6 +1,6 @@
 # Pig Game 🎲
 
-Um jogo de dados interativo para dois jogadores, desenvolvido com HTML, CSS e JavaScript. Durante o curso de [JavaScript](https://github.com/jonasschmedtmann/complete-javascript-course) ministrado por [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
+Um jogo de dados interativo para dois jogadores, desenvolvido com HTML, CSS e JavaScript, durante o curso de [JavaScript](https://github.com/jonasschmedtmann/complete-javascript-course) ministrado por [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
 
 ![Pig Game](https://img.shields.io/badge/Status-Concluído-brightgreen) 
 ![Tecnologia](https://img.shields.io/badge/Tecnologia-HTML%2FCSS%2FJS-yellow)
